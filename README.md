@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1168-duplicate-zeros](https://github.com/Jayaprakash02/LeetProblems/tree/master/1168-duplicate-zeros) |
 | [3226-minimum-number-game](https://github.com/Jayaprakash02/LeetProblems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Jayaprakash02/LeetProblems/tree/master/1746-largest-substring-between-two-equal-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1168-duplicate-zeros](https://github.com/Jayaprakash02/LeetProblems/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
