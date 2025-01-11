@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1168-duplicate-zeros](https://github.com/Jayaprakash02/LeetProblems/tree/master/1168-duplicate-zeros) |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
 | [3226-minimum-number-game](https://github.com/Jayaprakash02/LeetProblems/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
 | [3226-minimum-number-game](https://github.com/Jayaprakash02/LeetProblems/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -32,4 +34,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1168-duplicate-zeros](https://github.com/Jayaprakash02/LeetProblems/tree/master/1168-duplicate-zeros) |
+## Binary Search
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
+## Greedy
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
+## Ordered Set
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Jayaprakash02/LeetProblems/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
