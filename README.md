@@ -63,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Jayaprakash02/LeetProblems/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Jayaprakash02/LeetProblems/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jayaprakash02/LeetProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Jayaprakash02/LeetProblems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
